@@ -10,14 +10,14 @@ Apasionado por la tecnología, la robótica y la inteligencia artificial. Con un
 - Exploración de Algoritmos y Desarrollo de Soluciones Tecnológicas
 
 🚀 Actualmente:
-- En proceso de obtener mi título de Tecnicatura Universitaria en Inteligencia Artificial.
+- En proceso de obtener mi título de Técnico Universitario en Inteligencia Artificial.
 - Desarrollando proyectos personales y académicos en áreas de IA y robótica.
 - Explorando nuevas tecnologías y tendencias en el mundo de la tecnología.
 
 🌐 ¡Conéctate conmigo!
 [LinkedIn](https://www.linkedin.com/in/francocalcia/)
 
-¡Siempre emocionado por aprender, colaborar y enfrentar nuevos desafíos!
+¡Siempre predispuesto por aprender, colaborar y enfrentar nuevos desafíos!
 
 <!---
 FrancoCalcia/FrancoCalcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
