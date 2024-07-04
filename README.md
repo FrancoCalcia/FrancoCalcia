@@ -1,6 +1,6 @@
 ## ¡Hola, soy Franco Calcia! 👋
 
-🎓 Técnico Superior en Robótica | 📚 Estudiante de Tecnicatura Universitaria en Inteligencia Artificial
+🎓 Técnico Superior en Robótica | 📚 Estudiante avanzado de la Tecnicatura Universitaria en Inteligencia Artificial
 
 Apasionado por la tecnología, la robótica y la inteligencia artificial. Con una sólida formación como Técnico Superior en Robótica y en constante búsqueda de conocimiento en el campo de la IA a través de mis estudios universitarios.
 
