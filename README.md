@@ -13,6 +13,7 @@ Apasionado por la tecnología, la robótica y la inteligencia artificial. Con un
 - En proceso de obtener mi título de Técnico Universitario en Inteligencia Artificial.
 - Desarrollando proyectos personales y académicos en áreas de IA y robótica.
 - Explorando nuevas tecnologías y tendencias en el mundo de la tecnología.
+- Trabajando en la automatización de una fábrica alimenticia.
 
 🌐 ¡Conéctate conmigo!
 [LinkedIn](https://www.linkedin.com/in/francocalcia/)
