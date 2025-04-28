@@ -8,7 +8,7 @@ Mi enfoque combina la ingeniería práctica con la inteligencia artificial, desa
 ### 💡 Áreas de especialización:
 - **Automatización y Robótica Industrial:** Desarrollo de sistemas de control, sensorización y mejora de procesos en entornos productivos.
 - **Inteligencia Artificial Aplicada:** Diseño e implementación de modelos predictivos, clasificación y análisis de datos industriales.
-- **Desarrollo de Soluciones Tecnológicas:** Creación de aplicaciones web (Flask), visualizaciones dinámicas (Power BI, Google Sheets API), sistemas de integración hardware-software (ESP32, Raspberry Pi), entre otras.
+- **Desarrollo de Soluciones Tecnológicas:** Creación de aplicaciones web (Flask), visualizaciones dinámicas (como PowerBI, LookerStudio), sistemas de integración hardware-software (ESP32, Raspberry Pi), entre otras.
 
 ### 🚀 Actualmente trabajando en:
 - Automatización de procesos en la industria alimenticia (control de producción, registro de eventos, optimización de tiempos).
